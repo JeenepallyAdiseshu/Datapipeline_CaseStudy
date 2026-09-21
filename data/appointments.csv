@@ -1,0 +1,31 @@
+appointment_id,patient_id,appointment_date,department,appointment_status,waiting_time
+A2001,P1001,2026-08-22,Cardiology,Completed,37
+A2002,P1002,2026-08-10,Dermatology,Cancelled,75
+A2003,P1003,2026-08-04,Dermatology,Completed,51
+A2004,P1004,2026-08-22,Dermatology,Completed,54
+A2005,P1005,2026-08-29,Pediatrics,Completed,71
+A2006,P1006,2026-08-18,Cardiology,Completed,66
+A2007,P1007,2026-08-26,Pediatrics,Scheduled,15
+A2008,P1008,2026-08-12,Pediatrics,Completed,37
+A2009,P1009,2026-08-02,Cardiology,Completed,37
+A2010,P1010,2026-08-10,Cardiology,Scheduled,53
+A2011,P1011,2026-08-30,Cardiology,Completed,39
+A2012,P1012,2026-08-04,Cardiology,Completed,71
+A2013,P1013,2026-08-14,Dermatology,Completed,84
+A2014,P1014,2026-08-16,Orthopedics,Completed,71
+A2015,P1015,2026-08-15,Orthopedics,Completed,10
+A2016,P1016,2026-08-08,Cardiology,Cancelled,36
+A2017,P1017,2026-08-14,Orthopedics,Scheduled,71
+A2018,P1018,2026-08-23,Orthopedics,Completed,86
+A2019,P1019,2026-08-28,Cardiology,Completed,12
+A2020,P1020,2026-08-25,Orthopedics,Cancelled,79
+A2021,P1021,2026-08-30,Pediatrics,Scheduled,81
+A2022,P1022,2026-08-08,General Medicine,Cancelled,36
+A2023,P1023,2026-08-21,General Medicine,Scheduled,18
+A2024,P1024,2026-08-16,Cardiology,Scheduled,71
+A2025,P1025,2026-08-13,Dermatology,Completed,46
+A2026,P1026,2026-08-18,Cardiology,Scheduled,60
+A2027,P1027,2026-08-15,Dermatology,Cancelled,53
+A2028,P1028,2026-08-21,General Medicine,Scheduled,33
+A2029,P1029,2026-08-24,Cardiology,Completed,88
+A2030,P1030,2026-08-26,Pediatrics,Completed,68

@@ -1,0 +1,31 @@
+consultation_id,patient_id,doctor,diagnosis,consultation_date
+C5001,P1001,Dr. Kumar,Diabetes Monitoring,2026-08-28
+C5002,P1002,Dr. Priya,Routine Checkup,2026-08-26
+C5003,P1003,Dr. Kumar,Fever,2026-08-23
+C5004,P1004,Dr. Rao,Skin Allergy,2026-08-26
+C5005,P1005,Dr. Anil,Fever,2026-08-05
+C5006,P1006,Dr. Rao,Fever,2026-08-26
+C5007,P1007,Dr. Anil,Routine Checkup,2026-08-21
+C5008,P1008,Dr. Kumar,Back Pain,2026-08-30
+C5009,P1009,Dr. Priya,Fever,2026-08-23
+C5010,P1010,Dr. Rao,Diabetes Monitoring,2026-08-09
+C5011,P1011,Dr. Anil,Back Pain,2026-08-12
+C5012,P1012,Dr. Rao,Skin Allergy,2026-08-21
+C5013,P1013,Dr. Anil,Routine Checkup,2026-08-01
+C5014,P1014,Dr. Rao,Skin Allergy,2026-08-26
+C5015,P1015,Dr. Anil,Back Pain,2026-08-26
+C5016,P1016,Dr. Anil,Back Pain,2026-08-01
+C5017,P1017,Dr. Kumar,Back Pain,2026-08-15
+C5018,P1018,Dr. Anil,Skin Allergy,2026-08-02
+C5019,P1019,Dr. Kumar,Back Pain,2026-08-30
+C5020,P1020,Dr. Anil,Skin Allergy,2026-08-22
+C5021,P1021,Dr. Priya,Back Pain,2026-08-16
+C5022,P1022,Dr. Priya,Diabetes Monitoring,2026-08-25
+C5023,P1023,Dr. Priya,Back Pain,2026-08-08
+C5024,P1024,Dr. Anil,Skin Allergy,2026-08-13
+C5025,P1025,Dr. Kumar,Fever,2026-08-21
+C5026,P1026,Dr. Kumar,Back Pain,2026-08-01
+C5027,P1027,Dr. Anil,Fever,2026-08-16
+C5028,P1028,Dr. Priya,Diabetes Monitoring,2026-08-29
+C5029,P1029,Dr. Priya,Routine Checkup,2026-08-07
+C5030,P1030,Dr. Kumar,Diabetes Monitoring,2026-08-05

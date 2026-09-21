@@ -1,0 +1,31 @@
+patient_id,patient_name,age,gender,blood_group,appointment_id,appointment_date,department,appointment_status,waiting_time,lab_id,blood_sugar,hemoglobin,cholesterol,blood_pressure,wearable_id,heart_rate,steps,sleep_hours,consultation_id,doctor,diagnosis,consultation_date,risk_score,risk_level
+P1001,Patient_1,56,Male,B+,A2001,2026-08-22,Cardiology,Completed,37,L3001,197,13.3,196,156,W4001,111,5487,6.9,C5001,Dr. Kumar,Diabetes Monitoring,2026-08-28,3,High Risk
+P1002,Patient_2,69,Female,AB+,A2002,2026-08-10,Dermatology,Cancelled,75,L3002,111,13.6,228,107,W4002,70,11219,6.1,C5002,Dr. Priya,Routine Checkup,2026-08-26,0,Normal
+P1003,Patient_3,46,Male,A+,A2003,2026-08-04,Dermatology,Completed,51,L3003,175,12.7,189,147,W4003,108,7515,8.5,C5003,Dr. Kumar,Fever,2026-08-23,3,High Risk
+P1004,Patient_4,32,Male,AB+,A2004,2026-08-22,Dermatology,Completed,54,L3004,167,12.2,162,137,W4004,67,2718,8.0,C5004,Dr. Rao,Skin Allergy,2026-08-26,1,Normal
+P1005,Patient_5,60,Male,B+,A2005,2026-08-29,Pediatrics,Completed,71,L3005,184,12.8,170,163,W4005,95,5996,8.8,C5005,Dr. Anil,Fever,2026-08-05,2,High Risk
+P1006,Patient_6,25,Male,B+,A2006,2026-08-18,Cardiology,Completed,66,L3006,131,13.1,233,122,W4006,97,6235,6.3,C5006,Dr. Rao,Fever,2026-08-26,0,Normal
+P1007,Patient_7,38,Male,B+,A2007,2026-08-26,Pediatrics,Scheduled,15,L3007,192,10.0,181,136,W4007,99,6055,7.2,C5007,Dr. Anil,Routine Checkup,2026-08-21,1,Normal
+P1008,Patient_8,56,Female,A+,A2008,2026-08-12,Pediatrics,Completed,37,L3008,141,11.7,238,115,W4008,79,10646,7.3,C5008,Dr. Kumar,Back Pain,2026-08-30,1,Normal
+P1009,Patient_9,36,Female,B+,A2009,2026-08-02,Cardiology,Completed,37,L3009,192,11.0,146,168,W4009,94,9550,8.9,C5009,Dr. Priya,Fever,2026-08-23,2,High Risk
+P1010,Patient_10,40,Female,A+,A2010,2026-08-10,Cardiology,Scheduled,53,L3010,137,14.3,155,126,W4010,107,4946,5.3,C5010,Dr. Rao,Diabetes Monitoring,2026-08-09,1,Normal
+P1011,Patient_11,28,Female,B+,A2011,2026-08-30,Cardiology,Completed,39,L3011,131,12.3,229,170,W4011,84,2545,6.2,C5011,Dr. Anil,Back Pain,2026-08-12,1,Normal
+P1012,Patient_12,28,Female,AB+,A2012,2026-08-04,Cardiology,Completed,71,L3012,91,15.4,199,158,W4012,94,8393,5.8,C5012,Dr. Rao,Skin Allergy,2026-08-21,1,Normal
+P1013,Patient_13,41,Male,AB+,A2013,2026-08-14,Dermatology,Completed,84,L3013,118,11.9,141,139,W4013,84,3193,6.1,C5013,Dr. Anil,Routine Checkup,2026-08-01,0,Normal
+P1014,Patient_14,70,Female,O+,A2014,2026-08-16,Orthopedics,Completed,71,L3014,81,14.4,140,145,W4014,88,4936,6.9,C5014,Dr. Rao,Skin Allergy,2026-08-26,1,Normal
+P1015,Patient_15,53,Female,AB+,A2015,2026-08-15,Orthopedics,Completed,10,L3015,82,14.3,187,157,W4015,77,10254,6.5,C5015,Dr. Anil,Back Pain,2026-08-26,1,Normal
+P1016,Patient_16,57,Male,O+,A2016,2026-08-08,Cardiology,Cancelled,36,L3016,192,10.4,151,92,W4016,105,7395,6.6,C5016,Dr. Anil,Back Pain,2026-08-01,2,High Risk
+P1017,Patient_17,41,Female,AB+,A2017,2026-08-14,Orthopedics,Scheduled,71,L3017,180,12.5,208,129,W4017,77,4854,8.4,C5017,Dr. Kumar,Back Pain,2026-08-15,1,Normal
+P1018,Patient_18,20,Male,A+,A2018,2026-08-23,Orthopedics,Completed,86,L3018,192,13.7,176,156,W4018,61,1725,8.7,C5018,Dr. Anil,Skin Allergy,2026-08-02,2,High Risk
+P1019,Patient_19,39,Female,AB+,A2019,2026-08-28,Cardiology,Completed,12,L3019,135,14.7,171,137,W4019,113,6393,5.3,C5019,Dr. Kumar,Back Pain,2026-08-30,1,Normal
+P1020,Patient_20,70,Male,O+,A2020,2026-08-25,Orthopedics,Cancelled,79,L3020,160,11.5,148,151,W4020,94,8522,5.8,C5020,Dr. Anil,Skin Allergy,2026-08-22,2,High Risk
+P1021,Patient_21,19,Female,O+,A2021,2026-08-30,Pediatrics,Scheduled,81,L3021,138,10.8,238,138,W4021,75,10651,7.7,C5021,Dr. Priya,Back Pain,2026-08-16,0,Normal
+P1022,Patient_22,41,Female,B+,A2022,2026-08-08,General Medicine,Cancelled,36,L3022,192,13.8,158,97,W4022,120,7100,6.4,C5022,Dr. Priya,Diabetes Monitoring,2026-08-25,2,High Risk
+P1023,Patient_23,61,Male,A+,A2023,2026-08-21,General Medicine,Scheduled,18,L3023,81,14.4,187,142,W4023,100,9496,6.0,C5023,Dr. Priya,Back Pain,2026-08-08,1,Normal
+P1024,Patient_24,47,Male,AB+,A2024,2026-08-16,Cardiology,Scheduled,71,L3024,81,11.6,219,117,W4024,95,10507,6.2,C5024,Dr. Anil,Skin Allergy,2026-08-13,0,Normal
+P1025,Patient_25,55,Male,B+,A2025,2026-08-13,Dermatology,Completed,46,L3025,171,10.1,142,124,W4025,92,9183,6.3,C5025,Dr. Kumar,Fever,2026-08-21,1,Normal
+P1026,Patient_26,19,Male,AB+,A2026,2026-08-18,Cardiology,Scheduled,60,L3026,133,15.1,159,166,W4026,63,6142,8.4,C5026,Dr. Kumar,Back Pain,2026-08-01,1,Normal
+P1027,Patient_27,38,Male,AB+,A2027,2026-08-15,Dermatology,Cancelled,53,L3027,166,11.9,163,130,W4027,92,9179,5.5,C5027,Dr. Anil,Fever,2026-08-16,1,Normal
+P1028,Patient_28,50,Male,B+,A2028,2026-08-21,General Medicine,Scheduled,33,L3028,180,12.6,193,93,W4028,73,9708,7.8,C5028,Dr. Priya,Diabetes Monitoring,2026-08-29,1,Normal
+P1029,Patient_29,29,Male,B+,A2029,2026-08-24,Cardiology,Completed,88,L3029,175,14.5,172,159,W4029,80,8839,7.2,C5029,Dr. Priya,Routine Checkup,2026-08-07,2,High Risk
+P1030,Patient_30,39,Male,B+,A2030,2026-08-26,Pediatrics,Completed,68,L3030,176,13.6,163,154,W4030,107,10935,6.2,C5030,Dr. Kumar,Diabetes Monitoring,2026-08-05,3,High Risk
