@@ -62,27 +62,6 @@ SQL Queries
    ↓
 Hospital Insights
 
-📂 Project Structure
-
-Hospital_Patient_Care_Analytics/
-│
-├── data/
-│   ├── patients.csv
-│   ├── appointments.csv
-│   ├── lab_reports.csv
-│   ├── wearable_data.csv
-│   └── consultations.csv
-│
-├── output/
-│   ├── hospital_patient_care.db
-│   ├──processed_patient_data.csv
-│
-├── Hospital_Patient_Care_Analytics_Adiseshu.ipynb
-├── README.md
-|___docs/
-   ├── Hospital_Patient_Care_Analytics_Adiseshu.docx
-
-
 
 📌 Learning Outcomes
 
